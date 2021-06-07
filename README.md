@@ -1,4 +1,4 @@
-![sodier](https://soldierdate.herokuapp.com/?endDate=20231113)
+![sodier](https://soldierdate.herokuapp.com/?endDate=20231106)
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlgj255&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<bt/>
