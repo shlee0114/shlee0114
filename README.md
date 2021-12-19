@@ -21,6 +21,7 @@ spring boot + kotlin
 
 - [맞춤법 맞추미](https://github.com/tlgj255/spellChecker)
   - spring boot의 구조를 익히고 WebFlux와 non-blocking 코드를 익히기 위해 시작한 프로젝트 입니다. [최화영](https://hdesigner.creatorlink.net/) 디자이너님과 협업했습니다.
+  - backend는 github action, aws elastic beanstalk을 사용했으며, frontend는 aws amplfy를 사용하였습니다.
 
 ---
 #### 관심분야
