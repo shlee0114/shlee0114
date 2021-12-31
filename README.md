@@ -34,7 +34,6 @@ spring boot + kotlin
 `AWS`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlgj255&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)<bt/>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tlgj255&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 #### 그 외 특이사항
