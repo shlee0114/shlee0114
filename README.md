@@ -35,8 +35,6 @@ spring boot + kotlin
 `WebFlux`
 `AWS`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlgj255&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)<bt/>
-
 ---
 #### 그 외 특이사항
 디지텍고등학교 멘토링 풀 등록 2022년 ~
